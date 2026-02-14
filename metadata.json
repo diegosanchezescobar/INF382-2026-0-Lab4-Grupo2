@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SBP Mobile Banking",
+  "description": "A premium, high-security mobile banking application featuring real-time transfers, credit card management, and investment tracking with a modern orange-gradient aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
